@@ -1,3 +1,4 @@
+link ativiade: https://classroom.google.com/c/NDg4NjkzNzAwMTMx/m/NDg4NjkzNzAwMjUz/details
 1. 
 	n1 = int(input("digite um numero "))
 
